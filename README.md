@@ -1,4 +1,12 @@
-## 👋 Welcome to My GitHub!<br><br>🎓 **Biomedical Engineer** | Graduate of **Aarhus University**  <br>💼 **Professional Experience & Achievements**: [View on LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  <br>📸 **Beyond the Lab**: [Follow me on Instagram](https://www.instagram.com/)<br><br>I'm passionate about blending engineering principles with medical innovation to improve lives. Explore my repositories to see what I'm working on!<br>
+## 👋 Welcome to My GitHub!<br><br>
+
+// https://gprm.itsvg.in/
+
+🎓 **Biomedical Engineer** | Graduate of **Aarhus University**  <br>
+💼 **Professional Experience & Achievements**: [View on LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  <br>
+📸 **Beyond the Lab**: [Follow me on Instagram](https://www.instagram.com/)<br>
+
+<br> I'm passionate about applying engineering principles to drive medical innovation, enhance healthcare technology, and improve patient outcomes.. Explore my repositories to see what I'm working on!<br>
 
 
 # 💻 Tech Stack:
