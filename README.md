@@ -1,6 +1,4 @@
-## 👋 Welcome to My GitHub!<br><br>
-
-// https://gprm.itsvg.in/
+# 👋 Welcome to My GitHub!<br><br>
 
 🎓 **Biomedical Engineer** | Graduate of **Aarhus University**  <br>
 💼 **Professional Experience & Achievements**: [View on LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  <br>
